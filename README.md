@@ -1,4 +1,4 @@
- <h1 align="center">🚀 Welcome, Vaibhavi!</h1>
+ <h1 align="center">💻 VaibhaviOS : Powdered by Laughter & Logic!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Futuristic-blueviolet?style=for-the-badge" />
