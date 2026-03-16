@@ -4,7 +4,10 @@
   <img src="https://img.shields.io/badge/Focus-Futuristic-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Powered%20By-Creativity-cyan?style=for-the-badge" />
 </p>
-<body style="background-image: url('github_background.jpg');">
+ <img src="github_background.jpg" width="100%">
+
+# Hi, I'm Vaibhavi
+Welcome to my GitHub profile!
 ---
 
 ## 🛠️ Top Repositories
